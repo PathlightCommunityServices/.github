@@ -6,5 +6,6 @@ The public repos on this organization's GitHub are the primary static sites used
 This currently includes:
 - mipath.org: The main site for information about Pathlight Community Services.
 - htf.mipath.org: The site for the Hoarding Task Force of Washtenaw, a hoarding and clutter cleaning volunteer service provide by Pathlight.
+- static.mipath.org: Used to host our various images and other assets shared across applications. 
 
 The private repos are current internal system apps that are in constant development. 
